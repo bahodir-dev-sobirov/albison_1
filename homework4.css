@@ -1,0 +1,32 @@
+div{
+    background-color: pink;
+    color: white;
+}
+div > h3{
+    background-color: red;
+    color: white;
+}
+div > p > u{
+    background-color: aqua;
+    color: red;
+}
+.first{
+    color: blue;
+    background-color: gray;
+}
+.second{
+    color: green;
+    background-color: yellow;
+}
+h2{
+    color: chocolate;
+}
+#red{
+    color: red;
+}
+.text{
+    background-color: green;
+}
+.password{
+    background-color: blue;
+}

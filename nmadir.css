@@ -1,0 +1,58 @@
+/* p- bu selector */
+/* color- bu property */
+/* 'color'degi burlywood - bu (value) diyiladi */   
+/* formula quyidagicha
+selector{
+    property:value
+}
+misol:
+p{
+    color:burlywood;
+    background-color: cyan;
+}
+*/
+
+/* universal selector */
+/* *{
+    color: red;
+} */
+
+/* h1,h2,u{
+    color: red; */
+
+/* tag selector */
+/* h2{
+    color:red;
+    background-color: blue;
+} */
+
+/* class selector */
+/* .blue{
+    color: blue;
+}
+
+/* id selector */ 
+/* #hello{
+    color: rgb(80, 73, 11);
+    text-align: center;
+    background-color: yellow;
+} */
+
+/* input */
+/* input[type="text"]{
+    color: red;
+    background-color: khaki;
+}
+input[type="password"]{
+    color: red;
+    background-color: yellow;
+} */
+
+/* img */
+/* img[alt="ocean"]{
+    width: 400px;
+}
+img[alt="ocean2"]{
+    width: 100px;
+} */
+
